@@ -1,0 +1,40 @@
+*.class
+*.log
+*.lock
+# Package Files #
+*.jar
+*.war
+*.ear
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Ignore gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+# idea
+.idea/
+*.iml
+*velocity.log*
+### STC ###
+.apt_generated
+.factorypath
+.springBeans
+*.iml
+*.ipr
+*.iws
+*.idea
+*.log
